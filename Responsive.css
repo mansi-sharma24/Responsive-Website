@@ -1,0 +1,53 @@
+
+@media only screen and (max-width: 1086px){
+    .navList{
+        flex-direction: column;
+
+    }
+    .navbar{
+        flex-direction: column;
+        transition: all 0.7s ease-out;
+        height: 550px;
+        padding-top:21px;
+        padding-bottom:21px;
+    }
+    .rightNav{
+        text-align: center;
+        width: 20%;
+    }
+    #search{
+        width: 100%;
+    }
+    .btn-small{
+        margin:20px;
+        margin-left: 30%;
+        text-align: center;
+    }
+    .burger{
+        display: block;
+    }
+    .height-nav{
+        height: 72px;
+    }
+    .visibility-class{
+        opacity: 0;
+    }
+    .box-main{
+        flex-direction: column-reverse;
+        max-width: 100%;
+        padding:50px
+    }
+    .section{
+        flex-direction: column-reverse;
+        }
+        .imgFluid{
+            padding-top: 10px;
+            padding-bottom:30px;
+            text-align: center;
+        }
+        .sectiontag{
+            text-align: center;
+        }
+  
+    
+}
