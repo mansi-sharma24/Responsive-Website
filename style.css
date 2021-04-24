@@ -72,7 +72,7 @@ html{
     border-radius: 50px;
 }
 .background{
-    background: rgba(0, 0, 0, 0.5) url('../img/pexels-burst-374870.jpg') ;
+    background: rgba(0, 0, 0, 0.5) url('img\pexels-burst-374870.jpg') ;
     background-size: cover;
     background-blend-mode:darken;
 } 
