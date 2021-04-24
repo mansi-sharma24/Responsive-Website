@@ -1,6 +1,6 @@
 
 # <h1>Responsive-Website<h1>
-It is Responsive Website containing HTML , CSS and Javascript . Perfect for personal sites, blogs, or simple project websites. 
+<h3>It is Responsive Website containing HTML , CSS and Javascript . Perfect for personal sites, blogs, or simple project websites. <h3>
   
 <img width="960" alt="2021-04-24 (6)" src="https://user-images.githubusercontent.com/73280986/115954159-14612200-a50d-11eb-857a-7dc35442b125.png">
 <img width="529" alt="2021-04-24 (7)" src="https://user-images.githubusercontent.com/73280986/115954165-1a570300-a50d-11eb-85fd-9ceb43b95742.png">
